@@ -1,0 +1,10 @@
+.date{
+    display: flex;
+    gap: 3em;
+    justify-content: space-evenly;
+    margin-top: 1em;
+}
+
+.table{
+    margin-top: 2em;
+}
